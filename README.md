@@ -1,6 +1,6 @@
 # Hi, I'm TeoG1menez
 ## Full Stack Developer in process
-![Alt text](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/Teo/Desktop/Henry/TeoG1menez/full-stack-development.gif?version%3D1676945078770)
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></img>
 ###    Who am I?
 #### I'm a full stack developer currently open to work, taking the SoyHenry bootcamp. Also I'm an electronics technician, with a solid base of coding, flow charts and problem solving.
 <br/>
