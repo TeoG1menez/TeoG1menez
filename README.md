@@ -18,8 +18,8 @@
 </a>
 <br/>
 
-#### This is my E-mail adress:
-<a>teo.unr.gimenez@gmail.com</a>
+#### This is my E-mail adress
+<a href="mailto:teo.unr.gimenez@gmail.com">teo.unr.gimenez@gmail.com</a>
 <br/>
 <br/>
 
