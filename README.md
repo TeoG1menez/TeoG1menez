@@ -22,7 +22,9 @@
 <a href="mailto:teo.unr.gimenez@gmail.com">teo.unr.gimenez@gmail.com</a>
 <br/>
 <br/>
-
+<a href="https://teogimenez.com.ar"> Click here to see my portfolio </a>
+<br/>
+<br/>
 # What languajes and tools do I use? 
 
 <div align="center">  
